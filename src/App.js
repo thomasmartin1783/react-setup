@@ -5,6 +5,8 @@ import thumb from "./thumb1.jpg";
 //Import Components
 import Nav from "./Nav";
 
+//test new editor
+
 const App = () => (
   <div>
     {/* <Nav /> */}
